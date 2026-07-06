@@ -1,0 +1,5 @@
+- Sparse tables: similar to range trees, but allows for O(1) queries for min.
+  t[i][j] = f([j, j+2^i))
+  https://cp-algorithms.com/data_structures/sparse-table.html
+
+- Decent implementation of Map APIs in 04_graph_algorithms/labyrinth_1193.cpp
